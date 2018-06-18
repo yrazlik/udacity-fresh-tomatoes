@@ -29,8 +29,3 @@ This module creates the Movie objects and opens the browser to display the movie
 #### media.py
 
 This module includes the class Movie, its constructor and methods.
-
-
-### License
-
-This program is licensed under the MIT License see the - [LICENSE](fresh-tomatoes-/LICENSE) file for details.
