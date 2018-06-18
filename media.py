@@ -2,6 +2,17 @@ import webbrowser
 
 class Movie():
 
+    """
+    Movie class
+    
+    Attributes:
+        title (str): Movie title.
+        storyline (str): Movie story line
+        poster_image_url (str): Link to the movie poster image
+        trailer_youtube_url (str): Link to the youtube page for trailer
+
+    """
+
     #Movie constructor. Set movie title, storyline, image url and trailer url
     def __init__(self, title, storyline, poster_image_url, trailer_youtube_url):
         self.title = title
